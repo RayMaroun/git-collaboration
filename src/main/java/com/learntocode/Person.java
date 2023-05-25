@@ -19,7 +19,7 @@ public class Person {
     }
 
     public int getAge() {
-        return age;
+        return 10;
     }
 
     public void setAge(int age) {
