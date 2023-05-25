@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d59d6bd0-fa37-43a9-8671-915949f7a606" name="Changes" comment="" />
+=======
+    <list default="true" id="11a9e8e9-72f3-45c1-9eee-008f16f879fb" name="Changes" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learntocode/Car.java" afterDir="false" />
+>>>>>>> 98c2fcdfd52a6921e1f8aa8aa954270f9c5d5c32
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> e3628941503f65f918a64d928f9c4f8fe75a7587
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
