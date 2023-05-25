@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11a9e8e9-72f3-45c1-9eee-008f16f879fb" name="Changes" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learntocode/Car.java" afterDir="false" />
+>>>>>>> 98c2fcdfd52a6921e1f8aa8aa954270f9c5d5c32
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
